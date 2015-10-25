@@ -1,4 +1,6 @@
-## Completed submission for the following assignment:
+## Completed submission for the assignment decribed below. 
+File cachematrix.R contains the function and TestScript.R can be run 
+(with or without modification) to test its output.
 
 ### Introduction
 
